@@ -1,5 +1,5 @@
-@import "tailwindcss";
-@import './styles/navBar.scss';
+@use "tailwindcss";
+@use './styles/navBar.scss';
 
 :root {
   --color-jessabach-gold: #D4AF37;
